@@ -32,7 +32,8 @@ Enhancing my skills through hands-on projects in:
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/saleh-baderah-26202828b)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleh-baderah-26202828b)
+
 
 ---
 
