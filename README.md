@@ -15,7 +15,7 @@
 Enhancing my skills through hands-on projects in:
 - 🧠 Artificial Intelligence  
 - 🤖 Arduino-based hardware systems  
-- 👁️‍🗨️ Computer Vision using **OpenCV** and **MediaPipe**
+
 
 ---
 
