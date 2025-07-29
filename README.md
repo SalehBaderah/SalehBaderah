@@ -11,11 +11,10 @@
 
 ---
 
-### 🔍 Currently Working On
-Enhancing my skills through hands-on projects in:
-- 🧠 Artificial Intelligence  
-- 🤖 Arduino-based hardware systems  
-
+### 🔍 Currently Working On:
+- 🧠 Artificial Intelligence
+  - ([ML-specialization](https://github.com/SalehBaderah/ML-Specialization))
+ 
 
 ---
 
