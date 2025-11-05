@@ -7,8 +7,7 @@
 ---
 
 ### 🧑‍💻 About Me
-🎓 Computer Engineering student at **Taif University**
-
+### I’m a Computer Engineering student at **Taif University** with a passion for AI, problem-solving, and learning.
 ---
 
 ### 🔍 Currently Working On:
