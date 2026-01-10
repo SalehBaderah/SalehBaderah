@@ -12,7 +12,7 @@
 
 ### 🔍 Currently Working On:
 - 🧠 Artificial Intelligence
-  - [ML-specialization](https://github.com/SalehBaderah/ML-Specialization)
+  
  
 
 ---
