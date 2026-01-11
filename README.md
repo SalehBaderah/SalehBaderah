@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hello%2C+World!" alt="Typing SVG" />
 </p>
@@ -11,9 +10,7 @@
 ---
 
 ### 🔍 Currently Working On:
-- 🧠 Artificial Intelligence
-  
- 
+- 🧠 **Deep Learning:** Documenting my practical journey through [Deep Learning for Coders with fastai and PyTorch](https://github.com/SalehBaderah/fastai-deep-learning-journey).
 
 ---
 
@@ -25,14 +22,10 @@
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=flat&logo=google&logoColor=white)](https://mediapipe.dev/)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
-
-
 ---
 
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleh-baderah-26202828b)
 
-
 ---
-
