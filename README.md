@@ -16,6 +16,7 @@ I’m a Computer Engineering student at **Taif University** with a passion for A
 
 ### </> Projects
 - [Ischemic Stroke lesion Segmentation](https://sl5-stroke-segmentation.hf.space)
+- [Computer vision & Arduino](https://github.com/SalehBaderah/gesture-led-control-project)
 
 ---
 
@@ -28,5 +29,10 @@ I’m a Computer Engineering student at **Taif University** with a passion for A
 
 ---
 
-### 📫 Connect With Me
+### 📫 Contact me on :
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleh-baderah-26202828b)
+[![X](https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white)](https://x.com/ottu_15)
+
+
+
+
