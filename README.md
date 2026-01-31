@@ -16,6 +16,8 @@ I’m a Computer Engineering student at **Taif University** with a passion for A
 
 ### </> Projects
 - [Ischemic Stroke lesion Segmentation](https://sl5-stroke-segmentation.hf.space)
+    - <details><summary><b>Project Poster (Click to expand)</b></summary><br><div align="center"><img src="https://github.com/user-attachments/assets/a73f4491-e927-42b1-82aa-643733f31b12" width="500" alt="Ischemic Stroke lesion Segmentation poster" /></div </details>
+
 - [Computer vision & Arduino](https://github.com/SalehBaderah/gesture-led-control-project)
 
 ---
