@@ -11,7 +11,7 @@ I’m a Computer Engineering student at **Taif University** with a passion for A
 
 ### 🛠 Currently Working On
 - **Deep Learning:** Documenting my practical journey through [Deep Learning for Coders with fastai and PyTorch](https://github.com/SalehBaderah/fastai-deep-learning-journey).
-- CryptoPulseMQTT (Graduation Project): Implementing a deep learning framework to detect and mitigate anomalies for IoT systems. 
+- **CryptoPulseMQTT (Graduation Project):** Implementing a deep learning framework to detect and mitigate anomalies for IoT systems. 
 ---
 
 ### </> Projects
