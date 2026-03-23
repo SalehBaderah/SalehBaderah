@@ -73,7 +73,9 @@
 
 <div align="center"> 
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SalehBaderah&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=SalehBaderah&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
+</a>
   <br/><br/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SalehBaderah&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%" alt="GitHub Activity Graph" />
