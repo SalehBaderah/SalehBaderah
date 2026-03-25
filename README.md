@@ -6,7 +6,7 @@
 
 <h2 align="center"> <img src="/imgs/img6.png" width="25"/> <em>About me</em></h2>
 
-<img src="https://github.com/SalehBaderah/SalehBaderah/blob/main/imgs/Pixel_Art_Moon_Phase_Animation-.gif" width="435" align="right" style="margin-left: 20px;" />
+<img src="https://github.com/SalehBaderah/SalehBaderah/blob/main/imgs/Pixel_Art_Moon_Phase_Animation-.gif" width="430" align="right" style="margin-left: 20px;" />
 
 <br/>
 
