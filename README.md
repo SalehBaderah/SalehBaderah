@@ -72,7 +72,7 @@
 
 <div align="center"> 
 
-  <a href="https://git.io/streak-stats">
+  <a href="[![GitHub Streak](https://streak-stats.demolab.com/?user=SalehBaderah)](https://git.io/streak-stats)">
   <img src="https://streak-stats.demolab.com?user=SalehBaderah&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
 </a>
   <br/><br/>
