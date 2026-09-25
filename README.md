@@ -26,26 +26,9 @@
 
 <h2 align="center"> <img src="/imgs/img9.png" width="25"/> <em> Currently Working On </em> </h2>
 
-- **Deep Learning:** Documenting my practical journey through [Deep Learning for Coders with fastai and PyTorch](https://github.com/SalehBaderah/fastai-deep-learning-journey).
+- Reading interesting books such as **Deep learning for coders with fastai and pytorch github** and **Designing machine learning systems**
+- **Expanding my knowledge in DL & MLOps**
 
-- **CryptoPulseMQTT (Graduation Project):** Implementing a deep learning framework to detect and mitigate anomalies for IoT systems. 
-
-<br/>
-
-<h2 align="center"> <img src="/imgs/img7.png" width="25"/> <em> Projects </em> </h2>
-
-- [Ischemic Stroke Lesion Segmentation](https://sl5-stroke-segmentation.hf.space)
-  <details>
-    <summary><b>Project Poster (Click to expand)</b></summary>
-    <br/>
-    <div align="center">
-      <img src="https://github.com/user-attachments/assets/a73f4491-e927-42b1-82aa-643733f31b12" width="500" alt="Ischemic Stroke Lesion Segmentation poster" />
-    </div>
-  </details>
-
-- [Computer Vision & Arduino](https://github.com/SalehBaderah/gesture-led-control-project)
-
-<br/>
 
 <h2 align="center"> <img src="/imgs/img8.png" width="20"/> <em> Technologies </em> </h2>
 
