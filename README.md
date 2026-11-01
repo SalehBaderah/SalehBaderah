@@ -26,7 +26,7 @@
 
 <h2 align="center"> <img src="/imgs/img9.png" width="25"/> <em> Currently Working On </em> </h2>
 
-- Reading interesting books such as **Deep learning for coders with fastai and pytorch github** and **Designing machine learning systems**
+- Reading interesting books such as **Deep learning for coders with fastai and pytorch** and **Designing machine learning systems**
 - **Expanding my knowledge in DL & MLOps**
 
 
