@@ -6,11 +6,11 @@
 
 <h2 align="center"> <img src="/imgs/img6.png" width="25"/> <em>About me</em></h2>
 
-<img src="https://github.com/SalehBaderah/SalehBaderah/blob/main/imgs/floating-developer-mono.gif" width="430" align="right" style="margin-left: 20px;" />
+<img src="https://github.com/SalehBaderah/SalehBaderah/blob/main/imgs/floating-developer-mono.gif" width="360" align="right" />
 
 <br/>
 
-<p>
+<p align="center">
   Hey There! <em><b> I'm Saleh </b></em>, a Computer Engineering student at Taif University with a passion for AI, problem-solving, and learning.
 </p>
 
@@ -21,8 +21,7 @@
    <img src="/imgs/img1.png" width="18"/>   <em><b> Growing Experience in ML and AI </b></em><br/>
 </p>
 
-<br/>
-<br/>
+<br clear="right"/>
 
 <h2 align="center"> <img src="/imgs/img9.png" width="25"/> <em> Currently Working On </em> </h2>
 
@@ -45,7 +44,7 @@
   <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   <img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/MediaPipe-000000?style=for-the-badge&logo=mediapipe&logoColor=white" alt="MediaPipe" />
+  <img src="https://img.shields.io/badge/MediaPipe-000000?style=for-the-badge&logo=mediapipe&logoColor=white" alt="MediaPipe" />
 </p>
 
 <br/>
@@ -55,9 +54,9 @@
 
 <div align="center"> 
 
-  <a href="[![GitHub Streak](https://streak-stats.demolab.com/?user=SalehBaderah)](https://git.io/streak-stats)">
-  <img src="https://streak-stats.demolab.com?user=SalehBaderah&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
-</a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=SalehBaderah&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
+  </a>
   <br/><br/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SalehBaderah&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%" alt="GitHub Activity Graph" />
@@ -75,6 +74,6 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://x.com/ottu_15" target="_blank">
-  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
 </p>
