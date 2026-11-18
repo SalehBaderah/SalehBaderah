@@ -16,7 +16,7 @@
 <h2 align="center"><img src="./imgs/img9.png" width="25" alt="" /> <em>Currently Working On</em></h2>
 
 - Reading interesting books such as **Deep Learning for Coders with fastai and PyTorch** and **Designing Machine Learning Systems**
-- **Expanding my knowledge in DL & MLOps**
+- Expanding my knowledge in **DL & MLOps**
 
 <h2 align="center"><img src="./imgs/img8.png" width="20" alt="" /> <em>Technologies</em></h2>
 
